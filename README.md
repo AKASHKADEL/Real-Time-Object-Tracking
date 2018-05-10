@@ -6,10 +6,16 @@ Among the two, Siamese network performed very well with a higher value of [Inter
 
 <div align='center'>
   <img src='images/siamese_1.PNG' height="225px">
-  <img src='results/best_results/family_k_35_it_20_num_scales_7_reg_1.png' height="225px">
 </div>
 
 <div align='center'>
   <img src='images/siamese_2.PNG' height="225px">
-  <img src='results/best_results/ian1_best.jpg' height="225px">
 </div>
+
+
+# References
+- Kalman filter working : http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+- Siamese netwrok based detection understanding : https://arxiv.org/abs/1606.09549
+- Siamese network source implementation: https://github.com/huanglianghua/siamfc-pytorch
+
+
