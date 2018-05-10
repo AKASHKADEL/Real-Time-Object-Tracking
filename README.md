@@ -5,11 +5,11 @@ Object Tracking has been the target of research for a long time due to its wide 
 Among the two, Siamese network performed very well with a higher value of [Intersection Over Union](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/) metric. Some of the results are below:
 
 <div align='center'>
-  <img src='images/siamese_1.png' height="225px">
+  <img src='images/siamese_1.PNG' height="225px">
   <img src='results/best_results/family_k_35_it_20_num_scales_7_reg_1.png' height="225px">
 </div>
 
 <div align='center'>
-  <img src='images/siamese_2.png' height="225px">
+  <img src='images/siamese_2.PNG' height="225px">
   <img src='results/best_results/ian1_best.jpg' height="225px">
 </div>
